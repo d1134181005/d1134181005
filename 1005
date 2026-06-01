@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>物聯網網站作業 - 1134181005</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            text-align: center;
+            margin-top: 50px;
+        }
+        .logo {
+            max-width: 300px;
+            height: auto;
+        }
+    </style>
+</head>
+<body>
+    <h1>物聯網網站建置作業</h1>
+    <h2>學號：D1134181005</h2>
+    
+    <img src="https://www.lhu.edu.tw/images/logo.png" alt="龍華科技大學校徽" class="logo">
+</body>
+</html>
